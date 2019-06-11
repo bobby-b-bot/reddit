@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bobby B Bot - Reddit version
 
 In this repository you can find the Reddit (and original) version of the Bobby B Bot.
@@ -34,3 +35,9 @@ Simply write one of the [keywords](triggers.json) (usually variations of the bot
 
 ## How to contribute 
 Feature requests such as new quotes or more subreddits to run the bot on are welcome! Feel free to contribute. You can also contribute by donating via [PayPal](http://paypal.me/felipezanettini) to keep the servers running. 
+=======
+# reddit
+Reddit client for Bobby B Bot
+
+### Publication in Progress ###
+>>>>>>> 64c546dc49f0ddbb400bf1b4932f2fab105a7c39

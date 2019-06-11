@@ -102,4 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 praw.ini
+=======
+>>>>>>> 64c546dc49f0ddbb400bf1b4932f2fab105a7c39
