@@ -18,5 +18,4 @@ websocket-client==0.56.0
 wrapt==1.11.1
 
 # Utils repository #
--e git+git://github.com/bobby-b-bot/utils.git#egg=dummy
--r utils/requirements.txt
+-r ../utils/requirements.txt
