@@ -26,7 +26,7 @@ if not os.path.isfile('posts_replied_to.txt'):      # If record file does not ex
     open("posts_replied_to.txt", "w+")
 
 # Instantiate logging in accordance with config file
-fileConfig('./utils/logging_config.ini')
+fileConfig('../utils/logging_config.ini')
 logger = logging.getLogger('reddit')
 
 # Explicit start of the bot runtime
