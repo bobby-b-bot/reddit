@@ -15,18 +15,18 @@ Simply write one of the [keywords](https://github.com/bobby-b-bot/utils/blob/mas
 2. Clone reddit repository inside this virtual enviroment folder (let's call it 'root') and then clone [utils](https://github.com/bobby-b-bot/utils.git) repository. The final structure should be somewhat similar to this:
 
 ```
-:folder: root
-└───:folder: reddit
-    │   praw.ini 
-    │   blocked_users.json
-    │   subs.json
-    │   reddit_bot.py
-└───:folder: utils
-    │   __init__.py
-    │   core.py
-    │   logging_config.ini
-    │   quotes.json
-    │   triggers.json
++ root
+└───+ reddit
+│     |-- praw.ini 
+│     |-- blocked_users.json
+│     |-- subs.json
+│     |-- reddit_bot.py
+└───+ utils
+      |-- __init__.py
+      |-- core.py
+      |-- logging_config.ini
+      |-- quotes.json
+      |-- triggers.json
 ```
 
 4. Run command `pip install -r requirements.txt` in reddit directory (this should install the requirements for utils as well, otherwise, you can also run the command in utils folder);
