@@ -16,7 +16,7 @@ import praw.exceptions
 from utils.core import get_env, get_username, is_keyword_mentioned, get_random_quote # bot standard functions
 
 # validate all mandatory files exist before starting
-assert os.path.isfile('./utils/logging_config.ini') # Logs config file
+assert os.path.isfile('../utils/logging_config.ini') # Logs config file
 assert os.path.isfile('praw.ini')                   # PRAW config file
 assert os.path.isfile('.env')                       # environment variables file
 assert os.path.isfile('subs.json')                  # subreddits file
