@@ -37,7 +37,7 @@ Simply write one of the [keywords](https://github.com/bobby-b-bot/utils/blob/mas
 ```
 $ python -m venv <venv_name>
 $ cd venv_name
-$ bin/activate
+$ source bin/activate
 (venv_name) $ git clone https://github.com/bobby-b-bot/reddit.git
 (venv_name) $ git clone https://github.com/bobby-b-bot/utils.git
 (venv_name) $ cd reddit
