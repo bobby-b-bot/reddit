@@ -3,7 +3,8 @@ import re
 import time
 import datetime
 import json
-import os.path
+import sys
+import os
 import logging
 from logging.config import fileConfig
 
@@ -11,6 +12,9 @@ from logging.config import fileConfig
 import praw
 from prawcore.exceptions import PrawcoreException as APIException # PRAW API exception handlers
 import praw.exceptions
+
+# Path hack
+sys.path.insert(0, os.path.abspath('..'))
 
 # Local application imports
 from utils.core import get_env, get_username, is_keyword_mentioned, get_random_quote # bot standard functions

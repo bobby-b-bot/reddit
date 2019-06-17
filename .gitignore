@@ -102,4 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PRAW Configuration file
 praw.ini
+
+# Already replied posts log
+posts_replied_to.txt
