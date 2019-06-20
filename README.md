@@ -1,4 +1,5 @@
 # Bobby B Bot - Reddit version
+[![Build Status](https://travis-ci.org/bobby-b-bot/reddit.svg?branch=master)](https://travis-ci.org/bobby-b-bot/reddit)
 
 In this repository you can find the Reddit (and original) version of the Bobby B Bot.
 
