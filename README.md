@@ -1,5 +1,5 @@
 # Bobby B Bot - Reddit version
-[![Build Status](https://travis-ci.org/bobby-b-bot/reddit.svg?branch=master)](https://travis-ci.org/bobby-b-bot/reddit)
+[![Build Status](https://travis-ci.org/bobby-b-bot/reddit.svg?branch=master)](https://travis-ci.org/bobby-b-bot/reddit) ![GitHub release](https://img.shields.io/github/release/bobby-b-bot/reddit.svg) ![GitHub All Releases](https://img.shields.io/github/downloads/bobby-b-bot/reddit/total.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/bobby-b-bot/reddit.svg) ![GitHub](https://img.shields.io/github/license/bobby-b-bot/reddit.svg) ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/bobby_b_bot.svg?style=social)
 
 In this repository you can find the Reddit (and original) version of the Bobby B Bot.
 
