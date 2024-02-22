@@ -56,4 +56,4 @@ $ source bin/activate
 
 ## How to contribute
 
-Feature requests such as new quotes or more subreddits to run the bot on are welcome via issues on GitHub! Feel free to contribute. You can also contribute by donating via [Ko-fi](https://ko-fi.com/L3L814HD5) or [PayPal](http://paypal.me/felipezanettini) to keep the servers running. 
+Feature requests such as new quotes or more subreddits to run the bot on are welcome via issues on GitHub! Feel free to contribute. You can also contribute by donating via [Ko-fi](https://ko-fi.com/L3L814HD5) or [PayPal](http://paypal.me/FSZanettini) to keep the servers running. 
